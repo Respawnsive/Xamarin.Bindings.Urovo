@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Xamarin.Bindings.Urovo</id>
+    <version>1.0.0</version>
+    <title></title>
+    <authors>Respawnsive</authors>
+    <owners>Respawnsive</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://raw.githubusercontent.com/Respawnsive/Xamarin.Bindings.Urovo/main/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Respawnsive/Xamarin.Bindings.Urovo</projectUrl>
+    <description>Urovo scanner sdk binding library</description>
+    <tags>Xamarin Urovo Scanner</tags>
+  </metadata>
+  <files>
+    <file src="lib\monoandroid12.0\Xamarin.Bindings.Urovo.dll" target="lib\monoandroid12.0\Xamarin.Bindings.Urovo.dll" />
+    <file src="lib\monoandroid12.0\Xamarin.Bindings.Urovo.pdb" target="lib\monoandroid12.0\Xamarin.Bindings.Urovo.pdb" />
+    <file src="lib\monoandroid12.0\Xamarin.Bindings.Urovo.xml" target="lib\monoandroid12.0\Xamarin.Bindings.Urovo.xml" />
+  </files>
+</package>
