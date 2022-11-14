@@ -10,5 +10,5 @@ Feedback and/or PR are welcome (if newer version from Urovo SDK and/or Android T
 Warning : We didn't do nothing else than the binding of Urovo SDK... for functionnal problem with SDK, contact Urovo !
 
 Nuget Package Available here (and visible in VS NugetPackageManager -> search "Urovo") :
-https://www.nuget.org/packages/Xamarin.Bindings.Urovo#supportedframeworks-body-tab
+https://www.nuget.org/packages/Xamarin.Bindings.Urovo
 
