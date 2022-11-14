@@ -5,7 +5,8 @@ Urovo has provided a sample for this binding library... targeting an old android
 
 So we do it ourselves (Targeting Android12), and provide it to the Community with a Nuget Package !
 
-Feedback and/or PR are welcome (if newer version from Urovo or Android Targeting version...)
+Feedback and/or PR are welcome (if newer version from Urovo SDK and/or Android Targeting new version requirement...)
+
 Warning : We didn't do nothing else than the binding of Urovo SDK... for functionnal problem with SDK, contact Urovo !
 
 Nuget Package Available here (and visible in VS NugetPackageManager -> search "Urovo") :
